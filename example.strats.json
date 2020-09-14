@@ -1,0 +1,30 @@
+{
+  "!pod": [
+    { "name": "Military", "queen": "Kill", "mil": "Kill", "flex": "Some killing", "objective": "Berries" },
+    { "name": "Eco", "queen": "Escort workers", "mil": "Top pile", "flex": "Center pile", "objective": "Close pile" }
+  ],
+  "!spire": [
+    { "name": "Military", "queen": "Kill", "mil": "Kill", "flex": "Some killing", "objective": "Berries" },
+    { "name": "Eco", "queen": "Escort workers", "mil": "Top pile", "flex": "Center pile", "objective": "Close pile" }
+  ],
+  "!nest": [
+    { "name": "Military", "queen": "Kill", "mil": "Kill", "flex": "Some killing", "objective": "Berries" },
+    { "name": "Eco", "queen": "Escort workers", "mil": "Top pile", "flex": "Center pile", "objective": "Close pile" }
+  ],
+  "!split": [
+    { "name": "Military", "queen": "Kill", "mil": "Kill", "flex": "Some killing", "objective": "Berries" },
+    { "name": "Eco", "queen": "Escort workers", "mil": "Top pile", "flex": "Center pile", "objective": "Close pile" }
+  ],
+  "!bqk": [
+    { "name": "Military", "queen": "Kill", "mil": "Kill", "flex": "Some killing", "objective": "Berries" },
+    { "name": "Eco", "queen": "Escort workers", "mil": "Top pile", "flex": "Center pile", "objective": "Close pile" }
+  ],
+  "!tally": [
+    { "name": "Military", "queen": "Kill", "mil": "Kill", "flex": "Some killing", "objective": "Berries" },
+    { "name": "Eco", "queen": "Escort workers", "mil": "Top pile", "flex": "Center pile", "objective": "Close pile" }
+  ],
+  "!helix": [
+    { "name": "Military", "queen": "Kill", "mil": "Kill", "flex": "Some killing", "objective": "Berries" },
+    { "name": "Eco", "queen": "Escort workers", "mil": "Top pile", "flex": "Center pile", "objective": "Close pile" }
+  ]
+}
