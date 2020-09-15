@@ -9,9 +9,7 @@ client.on('ready', () => {
 })
 
 client.on('message', msg => {
-  console.log(msg.author.username, JSON.parse(process.env.USER_GREENLIST), JSON.parse(process.env.USER_GREENLIST).includes(msg.author.username))
-  if (JSON.parse(process.env.USER_GREENLIST).includes(msg.author.username)) {
-    console.log('whaaa?')
+  if (process.env.USER_GREENLIST.split(',').includes(msg.author.username)) {
     const res = getStrats(msg, JSON.parse(process.env.STRATS))
 
     if (res) {
