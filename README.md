@@ -14,7 +14,7 @@
 !spire
 ```
 
-# View all strats for a role
+### View all strats for a role
 
 ```
 !queen
